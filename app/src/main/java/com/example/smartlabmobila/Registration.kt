@@ -19,8 +19,12 @@ class Registration : AppCompatActivity() {
         if (email.length() != 0) {
             button.isClickable = true
         }
+<<<<<<< HEAD
         else {button.isClickable = false }
         */
+=======
+        else {button.isClickable = false }*/
+>>>>>>> origin/master
 
 }
     fun perexod(view: View){
